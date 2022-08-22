@@ -73,7 +73,7 @@ h2{
 
 
 .slide{
-  width: 100%;
+  width: 98%;
   margin: 0 auto;
   overflow: hidden !important;
   margin-top: 10px;
@@ -103,7 +103,7 @@ h2{
 
 .dieuhuong>i:last-child{
   position: relative;
-  left: 1290px;
+  left: 1260px;
 }
 
 
